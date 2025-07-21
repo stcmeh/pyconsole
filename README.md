@@ -1,0 +1,2 @@
+# pyconsole
+Python Console Widget
